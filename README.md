@@ -2,7 +2,7 @@
 
 I'm a front-end developer from Yogyakarta, Indonesia
 
-I am experienced in website development since 2018 as a full stack developer I sometimes analyze software. 
+I'm experienced in website development since 2018 as a full stack developer I sometimes analyze software. 
 But now I'm also developing website applications using `VueJs/NuxtJs`. 
 
 **I also can do ...**
